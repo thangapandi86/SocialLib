@@ -1,0 +1,83 @@
+package com.cwb.sociallib.lib;
+import java.util.List;
+
+import org.brickred.socialauth.Album;
+import org.brickred.socialauth.Career;
+import org.brickred.socialauth.Contact;
+import org.brickred.socialauth.Feed;
+import org.brickred.socialauth.Profile;
+import org.brickred.socialauth.android.DialogListener;
+import org.brickred.socialauth.android.SocialAuthAdapter;
+import org.brickred.socialauth.android.SocialAuthAdapter.Provider;
+import org.brickred.socialauth.android.SocialAuthListener;
+
+import android.content.Context;
+import android.os.Bundle;
+import android.util.Log;
+import android.widget.TextView;
+
+public class SocialLogin {
+    Context ctx;
+    static SocialAuthAdapter adapter;
+
+    public SocialLogin(Context inContext,DialogListener Listener)
+    {
+        this.ctx = inContext;
+        adapter = new SocialAuthAdapter(Listener);
+    }
+
+    public void getfacebooklogin()
+    {
+        adapter.authorize(ctx, Provider.FACEBOOK);
+
+    }
+
+    public void getgooglepluslogin()
+    {
+        adapter.addCallBack(Provider.GOOGLE, "http://socialauth.in/socialauthdemo");
+        adapter.authorize(ctx, Provider.GOOGLE);
+    }
+
+    public void gettwitterlogin()
+    {
+        adapter.authorize(ctx, Provider.TWITTER);
+    }
+
+    public void GetloginGooleplus()
+    {
+        adapter.authorize(ctx, Provider.GOOGLEPLUS);
+    }
+
+    public void getlnkedinlogin()
+    {
+        adapter.authorize(ctx, Provider.LINKEDIN);
+    }
+
+    public void getUserFacebookdetails(SocialAuthListener<Profile> Listener)
+    {
+        adapter.getUserProfileAsync(Listener);
+    }
+
+    public void getFBContactDetails(SocialAuthListener<List<Contact>> Listener)
+    {
+        adapter.getContactListAsync(Listener);
+    }
+    public void getFBAlbums(SocialAuthListener<List<Album>> Listener)
+    {
+        adapter.getAlbumsAsync(Listener);
+    }
+    public void getFBFeeds(SocialAuthListener<List<Feed>> Listener)
+    {
+        adapter.getFeedsAsync(Listener);
+    }
+
+    public void GetCareer(SocialAuthListener<Career> Listener)
+    {
+        adapter.getCareerAsync(Listener);
+    }
+    public Boolean CheckLoginStatus(String provider)
+    {
+        return  adapter.signOut(ctx, provider);
+
+    }
+}
