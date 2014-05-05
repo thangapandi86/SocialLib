@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mainlayout"
+    android:orientation="vertical" >
+    
+    <RelativeLayout
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:background="#0099bb"
+        android:id="@+id/topmenu"
+        android:orientation="horizontal">
+
+       <Button
+        android:id="@+id/show_menu"
+        android:layout_width="42dp"
+        android:layout_height="32dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dip"
+        android:visibility="visible"
+        android:background="@drawable/ic_drawer"/>
+     <TextView 
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:id="@+id/title"
+         android:text=""
+         android:layout_centerVertical="true"
+         android:layout_centerHorizontal="true"
+         android:textColor="@android:color/white"
+         android:textSize="22sp"
+         android:textStyle="bold"
+         android:gravity="center"/>
+  
+  </RelativeLayout>
+    
+</RelativeLayout>
+<!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/src/main/res/layout/detail_activity.xml -->

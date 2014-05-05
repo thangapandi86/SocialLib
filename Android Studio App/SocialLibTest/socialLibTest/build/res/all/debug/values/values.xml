@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string-array name="drawable_array">
+        <item>share</item>
+        <item>profile</item>
+        <item>contacts</item>
+        <item>feeds</item>
+        <item>image</item>
+        <item>albums</item>
+        <item>notepad</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="facebook_array">
+        <item>User Profile</item>
+        <item>Post Message</item>
+        <item>Friends</item>
+        <item>Get Feeds</item>
+        <item>Upload Image</item>
+        <item>Get Albums</item>
+        <item>Update Story</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="flickr_array">
+        <item>User Profile</item>
+        <item>Contacts</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="foursquare_array">
+        <item>User Profile</item>
+        <item>Contacts</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="google_array">
+        <item>User Profile</item>
+        <item>Friends</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="googleplus_array">
+        <item>User Profile</item>
+        <item>Friends</item>
+        <item>Get Feeds</item>
+        <item>Get Albums</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="instagram_array">
+        <item>User Profile</item>
+        <item>Contacts</item>
+        <item>Get Feeds</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="linkedin_array">
+        <item>User Profile</item>
+        <item>Post an Update</item>
+        <item>Friends</item>
+        <item>Get Feeds</item>
+        <item>Career</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="myspace_array">
+        <item>User Profile</item>
+        <item>Post an Update</item>
+        <item>Friends</item>
+        <item>Close Dialog</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Find People</item>
+        <item>Photos</item>
+        <item>Feed</item>
+        <item>Career</item>
+        <item>What\'s Hot</item>
+    </string-array>
+    <string-array name="runkeeper_array">
+        <item>User Profile</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="salesforce_array">
+        <item>User Profile</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="twitter_array">
+        <item>User Profile</item>
+        <item>Send Tweet</item>
+        <item>Friends</item>
+        <item>Get Feeds</item>
+        <item>Upload Image</item>
+        <item>Get Albums</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="yahoo_array">
+        <item>User Profile</item>
+        <item>Post an Update</item>
+        <item>Friends</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <string-array name="yammer_array">
+        <item>User Profile</item>
+        <item>Post an Update</item>
+        <item>Contacts</item>
+        <item>Close Dialog</item>
+    </string-array>
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/build/exploded-bundles/SocialLibTest1SocialLibUnspecified.aar/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="black">#000000</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="gray">#C0C0C0</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="list_item_title">#fff</color>
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="transparent">#00000000</color>
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/build/exploded-bundles/SocialLibTest1SocialLibUnspecified.aar/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="slidingmenu_offset">60dp</dimen>
+
+    <integer name="num_cols">1</integer>
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SocialLib Test</string>
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/build/exploded-bundles/SocialLibTest1SocialLibUnspecified.aar/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="desc_list_item_icon">Item Icon</string>
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/build/exploded-bundles/SocialLibTest1SocialLibUnspecified.aar/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="Animations" />
+
+    <style name="Animations.PopDownMenu" />
+
+    <style name="Animations.PopDownMenu.Center">
+        <item name="@android:windowEnterAnimation">@anim/grow_from_top</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_bottom</item>
+    </style>
+
+    <style name="Animations.PopDownMenu.Left">
+        <item name="@android:windowEnterAnimation">@anim/grow_from_topleft_to_bottomright</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_bottomright_to_topleft</item>
+    </style>
+
+    <style name="Animations.PopDownMenu.Reflect">
+        <item name="@android:windowEnterAnimation">@anim/pump_top</item>
+        <item name="@android:windowExitAnimation">@anim/disappear</item>
+    </style>
+
+    <style name="Animations.PopDownMenu.Right">
+        <item name="@android:windowEnterAnimation">@anim/grow_from_topright_to_bottomleft</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_bottomleft_to_topright</item>
+    </style>
+
+    <style name="Animations.PopUpMenu" />
+
+    <style name="Animations.PopUpMenu.Center">
+        <item name="@android:windowEnterAnimation">@anim/grow_from_bottom</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_top</item>
+    </style>
+
+    <style name="Animations.PopUpMenu.Left">
+        <item name="@android:windowEnterAnimation">@anim/grow_from_bottomleft_to_topright</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_topright_to_bottomleft</item>
+    </style>
+
+    <style name="Animations.PopUpMenu.Reflect">
+        <item name="@android:windowEnterAnimation">@anim/pump_bottom</item>
+        <item name="@android:windowExitAnimation">@anim/disappear</item>
+    </style>
+
+    <style name="Animations.PopUpMenu.Right">
+        <item name="@android:windowEnterAnimation">@anim/grow_from_bottomright_to_topleft</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_topleft_to_bottomright</item>
+    </style>
+
+    <style name="Animations.Testing">
+        <item name="@android:windowEnterAnimation">@anim/slide_bottom</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_bottomleft_to_topright</item>
+    </style>
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/build/exploded-bundles/SocialLibTest1SocialLibUnspecified.aar/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+
+    <style name="ButtonBarButton" />
+
+    <style name="ListViewStyle">
+        <item name="android:dividerHeight">3.0dp</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:divider">@android:color/transparent</item>
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:smoothScrollbar">true</item>
+        <item name="android:fastScrollEnabled">true</item>
+        <item name="android:headerDividersEnabled">false</item>
+        <item name="android:descendantFocusability">blocksDescendants</item>
+    </style>
+
+    <style name="listItemmerchantImageStyle">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+    </style>
+
+</resources>

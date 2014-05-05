@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:toDegrees="-90"
+    android:pivotX="50%"
+    android:pivotY="50%" /><!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLib/src/main/res/anim/rotate.xml --><!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/build/exploded-bundles/SocialLibTest1SocialLibUnspecified.aar/res/anim/rotate.xml -->

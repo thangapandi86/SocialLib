@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res" >
+            <file
+                name="custom_anim"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\custom_anim.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="disappear"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\disappear.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="fade_in"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\fade_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="fade_in2"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\fade_in2.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="grow_from_bottom"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\grow_from_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="grow_from_bottomleft_to_topright"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\grow_from_bottomleft_to_topright.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="grow_from_bottomright_to_topleft"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\grow_from_bottomright_to_topleft.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="grow_from_top"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\grow_from_top.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="grow_from_topleft_to_bottomright"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\grow_from_topleft_to_bottomright.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="grow_from_topright_to_bottomleft"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\grow_from_topright_to_bottomleft.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="left_right_amination"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\left_right_amination.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="pump_bottom"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\pump_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="pump_top"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\pump_top.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="push_right_in"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\push_right_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="push_right_out"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\push_right_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="rail"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\rail.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="rotate"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\rotate.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="shrink_from_bottom"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\shrink_from_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="shrink_from_bottomleft_to_topright"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\shrink_from_bottomleft_to_topright.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="shrink_from_bottomright_to_topleft"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\shrink_from_bottomright_to_topleft.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="shrink_from_top"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\shrink_from_top.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="shrink_from_topleft_to_bottomright"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\shrink_from_topleft_to_bottomright.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="shrink_from_topright_to_bottomleft"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\shrink_from_topright_to_bottomleft.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slidein"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\slidein.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slideout"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\slideout.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_bottom"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\slide_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="status_view_animation"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\anim\status_view_animation.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="counter_bg"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\counter_bg.xml"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_communities"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\ic_communities.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_home"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\ic_home.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_pages"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\ic_pages.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_people"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\ic_people.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_photos"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\ic_photos.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_whats_hot"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\ic_whats_hot.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_item_bg_normal"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\list_item_bg_normal.xml"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_item_bg_pressed"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\list_item_bg_pressed.xml"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_selector"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-hdpi\list_selector.xml"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="action_item_selected"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-mdpi\action_item_selected.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="arrow"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-mdpi\arrow.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="arrow_down"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-mdpi\arrow_down.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="arrow_up"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-mdpi\arrow_up.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="popup"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-mdpi\popup.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="xml_action_item_btn"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-mdpi\xml_action_item_btn.xml"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="albums"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\albums.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="blank_profile"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\blank_profile.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="career"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\career.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="close"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\close.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contacts"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\contacts.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="email"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\email.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="facebook"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\facebook.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="feeds"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\feeds.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="flickr"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\flickr.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="foursquare"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\foursquare.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="google"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\google.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="googleplus"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\googleplus.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="image"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\image.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="instagram"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\instagram.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="linkedin"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\linkedin.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="minus"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\minus.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="mms"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\mms.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="myspace"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\myspace.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="notepad"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\notepad.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="plus"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\plus.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="profile"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\profile.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="runkeeper"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\runkeeper.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="salesforce"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\salesforce.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="share"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\share.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="twitter"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\twitter.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="yahoo"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\yahoo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="yammer"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xhdpi\yammer.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="action_item_horizontal"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\layout\action_item_horizontal.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="action_item_vertical"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\layout\action_item_vertical.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\layout\drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="horiz_separator"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\layout\horiz_separator.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="photoitem"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\layout\photoitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="popup_horizontal"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\layout\popup_horizontal.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="popup_vertical"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\layout\popup_vertical.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="testlayout"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\layout\testlayout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\values\color.xml"
+                qualifiers="" >
+                <color name="counter_text_bg" >#626262
+                </color>
+                <color name="list_background_pressed" >#992416
+                </color>
+                <color name="white" >#FFFFFF
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="list_background" >#303030
+                </color>
+                <color name="list_item_title" >#fff
+                </color>
+                <color name="gray" >#C0C0C0
+                </color>
+                <color name="list_divider" >#272727
+                </color>
+                <color name="counter_text_color" >#c5c4c4
+                </color>
+            </file>
+            <file
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >testlib
+                </string>
+                <string name="desc_list_item_icon" >Item Icon
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style name="ListViewStyle" >
+                    <item name="android:dividerHeight">
+3.0dp
+                    </item>
+                    <item name="android:listSelector">
+@android:color/transparent
+                    </item>
+                    <item name="android:divider">
+@android:color/transparent
+                    </item>
+                    <item name="android:cacheColorHint">
+#00000000
+                    </item>
+                    <item name="android:scrollbars">
+none
+                    </item>
+                    <item name="android:smoothScrollbar">
+true
+                    </item>
+                    <item name="android:fastScrollEnabled">
+true
+                    </item>
+                    <item name="android:headerDividersEnabled">
+false
+                    </item>
+                    <item name="android:descendantFocusability">
+blocksDescendants
+                    </item>
+                </style>
+
+                <style name="ButtonBar" >
+                    <item name="android:paddingLeft">
+2dp
+                    </item>
+                    <item name="android:paddingTop">
+5dp
+                    </item>
+                    <item name="android:paddingRight">
+2dp
+                    </item>
+                    <item name="android:paddingBottom">
+0dp
+                    </item>
+                    <item name="android:background">
+@android:drawable/bottom_bar
+                    </item>
+                </style>
+
+                <style name="ButtonBarButton" />
+
+                <style name="Animations.PopUpMenu.Right" >
+                    <item name="@android:windowEnterAnimation">
+@anim/grow_from_bottomright_to_topleft
+                    </item>
+                    <item name="@android:windowExitAnimation">
+@anim/shrink_from_topleft_to_bottomright
+                    </item>
+                </style>
+
+                <style name="listItemmerchantImageStyle" >
+                    <item name="android:layout_width">
+40dp
+                    </item>
+                    <item name="android:layout_height">
+40dp
+                    </item>
+                </style>
+
+                <style name="Animations.PopDownMenu.Reflect" >
+                    <item name="@android:windowEnterAnimation">
+@anim/pump_top
+                    </item>
+                    <item name="@android:windowExitAnimation">
+@anim/disappear
+                    </item>
+                </style>
+
+                <style name="Animations.PopUpMenu.Center" >
+                    <item name="@android:windowEnterAnimation">
+@anim/grow_from_bottom
+                    </item>
+                    <item name="@android:windowExitAnimation">
+@anim/shrink_from_top
+                    </item>
+                </style>
+
+                <style name="Animations.PopUpMenu.Reflect" >
+                    <item name="@android:windowEnterAnimation">
+@anim/pump_bottom
+                    </item>
+                    <item name="@android:windowExitAnimation">
+@anim/disappear
+                    </item>
+                </style>
+
+                <style name="Animations.PopUpMenu" />
+
+                <style name="Animations" />
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style name="Animations.Testing" >
+                    <item name="@android:windowEnterAnimation">
+@anim/slide_bottom
+                    </item>
+                    <item name="@android:windowExitAnimation">
+@anim/shrink_from_bottomleft_to_topright
+                    </item>
+                </style>
+
+                <style name="Animations.PopDownMenu" />
+
+                <style name="Animations.PopDownMenu.Left" >
+                    <item name="@android:windowEnterAnimation">
+@anim/grow_from_topleft_to_bottomright
+                    </item>
+                    <item name="@android:windowExitAnimation">
+@anim/shrink_from_bottomright_to_topleft
+                    </item>
+                </style>
+
+                <style name="Animations.PopUpMenu.Left" >
+                    <item name="@android:windowEnterAnimation">
+@anim/grow_from_bottomleft_to_topright
+                    </item>
+                    <item name="@android:windowExitAnimation">
+@anim/shrink_from_topright_to_bottomleft
+                    </item>
+                </style>
+
+                <style name="Animations.PopDownMenu.Center" >
+                    <item name="@android:windowEnterAnimation">
+@anim/grow_from_top
+                    </item>
+                    <item name="@android:windowExitAnimation">
+@anim/shrink_from_bottom
+                    </item>
+                </style>
+
+                <style name="Animations.PopDownMenu.Right" >
+                    <item name="@android:windowEnterAnimation">
+@anim/grow_from_topright_to_bottomleft
+                    </item>
+                    <item name="@android:windowExitAnimation">
+@anim/shrink_from_bottomleft_to_topright
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\build\res\rs\release" />
+        <source path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\build\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="D:\SocialLib-master\SocialLib-master\Android Studio App\SocialLibTest1\socialLib\src\release\res" />
+    </dataSet>
+
+</merger>

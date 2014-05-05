@@ -1,0 +1,31 @@
+<!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/src/main/AndroidManifest.xml -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.testapplication">
+
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="19"/>
+    
+     <uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
+        <activity android:label="@string/app_name" android:name="com.example.testapplication.MainScreeActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/build/exploded-bundles/SocialLibTest1SocialLibUnspecified.aar/AndroidManifest.xml -->
+        <activity android:label="@string/app_name" android:name="com.example.testlib.Mainscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/src/main/AndroidManifest.xml -->
+        
+       
+    </application>
+
+</manifest>

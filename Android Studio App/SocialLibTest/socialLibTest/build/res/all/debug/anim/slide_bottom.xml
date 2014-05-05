@@ -1,0 +1,6 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+	<translate android:fromYDelta="+50%p" android:toYDelta="0"
+            android:duration="750" />
+
+</set>
+<!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLib/src/main/res/anim/slide_bottom.xml --><!-- From: file:/D:/SocialLib-master/SocialLib-master/Android%20Studio%20App/SocialLibTest1/socialLibTest/build/exploded-bundles/SocialLibTest1SocialLibUnspecified.aar/res/anim/slide_bottom.xml -->
